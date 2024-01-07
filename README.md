@@ -1,7 +1,7 @@
 # TFLite-Image-Classification
 Proyek Membuat Model Klasifikasi Gambar Dengan Menggunakan Python Libraries dan Menconvert Model Kedalam Bentk TFLite, Proyek berikut dibuat berdasarkan tugas course "Belajar Pengembangan Machine Learning" sebagai syarat kelulusan course dan untuk memperoleh sertifikasi kompetensi Machine Learning.
 
-Pertama-tama dalam proyek ini saya menggunakan dataset yang diperoleh dari Kaggle yaitu dataset Bottle Synthetic Images yang diperoleh dari User Kaggle Bernama Marionette.
+Pertama-tama dalam proyek ini saya menggunakan dataset yang diperoleh dari [Kaggle](https://www.kaggle.com/) yaitu dataset [Bottle Synthetic Images](https://www.kaggle.com/datasets/vencerlanz09/bottle-synthetic-images-dataset) yang diperoleh dari User Kaggle Bernama Marionette.
 
 Dataset dari link kaggle tersebut akan dicopy API nya untuk diambil datanya berikut  API dari Bottles Synthetic Images : (kaggle datasets download -d vencerlanz09/bottle-synthetic-images-dataset).
 
